@@ -1,0 +1,41 @@
+ body {
+     background-color:grey;
+
+     }
+     
+     hr{
+      
+          border-style: none;
+          border-top-style: dotted;
+         border-color:#EAF6FE ;
+          border-width: 10px;
+           width: 5%;
+     }
+     
+     h2{
+        color: #6FB2D2;
+     }
+     h3{
+         color: antiquewhite;
+     }
+     h4{
+         color: #F5F5F5;
+     }
+     input{
+        background-color: #6FB2D2;
+     }
+     textarea{
+         background-color:#6FB2D2;
+     }
+     label{
+         color: aqua;
+     }
+     a{
+        color: aqua;
+     }
+     th{
+        color: aqua; 
+     }
+     td{
+        color: #6FB2D2;  
+     }
